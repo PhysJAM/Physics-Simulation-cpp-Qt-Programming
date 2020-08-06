@@ -1,4 +1,4 @@
-# Physics-Simulation---Qt-Programming
+# Physics-Simulation-C++-Qt-Programming
 
 created by Julio Morgado
 
