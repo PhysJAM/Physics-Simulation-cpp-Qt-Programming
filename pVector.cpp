@@ -1,3 +1,7 @@
+/*** Custom vector class inhereting from QVector2D
+*created by Julio Morgado
+***/
+
 #include "pVector.h"
 
 PVector::PVector(qreal x, qreal y)
