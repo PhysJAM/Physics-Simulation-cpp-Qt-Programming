@@ -1,3 +1,7 @@
+/*** Physics Simulation using the Qt Framework
+*created by Julio Morgado
+***/
+
 #include "engine.h"
 
 #include <QApplication>
