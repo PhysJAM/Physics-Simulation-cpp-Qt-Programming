@@ -1,3 +1,7 @@
+/*** Custom particle object inhereting from QGraphicsItem with included physics
+*created by Julio Morgado
+***/
+
 #include "particle.h"
 
 Particle::Particle(qreal X, qreal Y, qreal W, qreal H, QString type)
