@@ -1,4 +1,4 @@
-/*** Custom particle object inhereting from QGraphicsItem with included physics
+/*** Custom particle object inhereting from QGraphicsItem with included rudimentary physics
 *created by Julio Morgado
 ***/
 
